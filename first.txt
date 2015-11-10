@@ -1,0 +1,3 @@
+Hello Git.
+Git is excellent.
+Yes it really is.
